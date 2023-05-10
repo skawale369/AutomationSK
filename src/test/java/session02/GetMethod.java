@@ -14,6 +14,13 @@ public class GetMethod {
 		// print response code, response header, response time
 	
 	//https://reqres.in/api/users/2
+	
+	//https://reqres.in/api/users?page=2
+		// print response code, response header, response time
+		//https://reqres.in/api/users?page=2
+			// print response code, response header, response time
+		
+		//https://reqres.in/api/users/2
 		@Test
 		void testcase01()
 		{

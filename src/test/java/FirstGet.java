@@ -6,6 +6,9 @@ import io.restassured.response.Response;
 public class FirstGet {
 	
 	//https://reqres.in/api/users/2
+	
+	//https://reqres.in/api/users/2
+	//https://reqres.in/api/users/2//https://reqres.in/api/users/2//https://reqres.in/api/users/2
 	@Test
 	void testcase01()
 	{
